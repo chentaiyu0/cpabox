@@ -345,3 +345,29 @@ http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
 #EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/TVlogo/MG.png" group-title="咪咕",咪咕直播-44
 http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
+
+#广东频道/12个频道
+#EXTINF:-1 tvg-id="guangdong" tvg-name="深圳都市" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/chentaiyu0/cpabox/main/tv.png" group-title="📡广东频道",深圳都市
+http://livepull-tcyzb.sztv.com.cn/live/dushi01.m3u8#http://livepull-tcyzb.sztv.com.cn/showto_live/dushi01.m3u8
+#EXTINF:-1 tvg-id="guangdong" tvg-name="河源综合" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/chentaiyu0/cpabox/main/tv.png" group-title="📡广东频道",河源综合
+http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8#https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8?_upt=f767206b1671099007
+#EXTINF:-1 tvg-id="guangdong" tvg-name="河源公共" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/chentaiyu0/cpabox/main/tv.png" group-title="📡广东频道",河源公共
+http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
+#EXTINF:-1 tvg-id="guangdong" tvg-name="广东文化" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/chentaiyu0/cpabox/main/tv.png" group-title="📡广东频道",广东文化
+https://glive.grtn.cn/live/wenhua_test0203.m3u8
+#EXTINF:-1 tvg-id="guangdong" tvg-name="深圳龙岗" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/chentaiyu0/cpabox/main/tv.png" group-title="📡广东频道",深圳龙岗
+https://lglivepull.sznews.com/live/2647.m3u8
+#EXTINF:-1 tvg-id="guangdong" tvg-name="阳江公共" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/chentaiyu0/cpabox/main/tv.png" group-title="📡广东频道",阳江公共
+https://live.yjtvw.com:8081/live/smil:yjtv2.smil/chunklist_w551261166_b928000.m3u8#https://live.yjtvw.com:8081/live/smil:yjtv2.smil/chunklist_b1152000.m3u8#https://live.yjtvw.com:8081/live/smil:yjtv2.smil/chunklist_b3628000.m3u8
+#EXTINF:-1 tvg-id="guangdong" tvg-name="阳江综合" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/chentaiyu0/cpabox/main/tv.png" group-title="📡广东频道",阳江综合
+https://live.yjtvw.com:8081/live/smil:yjtv1.smil/chunklist_w1166501356_b928000.m3u8#https://live.yjtvw.com:8081/live/smil:yjtv1.smil/chunklist_b1152000.m3u8#https://live.yjtvw.com:8081/live/smil:yjtv1.smil/chunklist_b3628000.m3u8
+#EXTINF:-1 tvg-id="guangdong" tvg-name="廉江综合" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/chentaiyu0/cpabox/main/tv.png" group-title="📡广东频道",廉江综合
+http://www.namewee.xyz/gudou.php?id=3209
+#EXTINF:-1 tvg-id="guangdong" tvg-name="中山香山文化" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/chentaiyu0/cpabox/main/tv.png" group-title="📡广东频道",中山香山文化
+http://www.namewee.xyz/gudou.php?id=3663
+#EXTINF:-1 tvg-id="guangdong" tvg-name="GRTN文化" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/chentaiyu0/cpabox/main/tv.png" group-title="📡广东频道",GRTN文化
+https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1612881417-0-0-bc7ddba066481bc805fc1e800654e721#https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935
+#EXTINF:-1 tvg-id="guangdong" tvg-name="阳江1" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/chentaiyu0/cpabox/main/tv.png" group-title="📡广东频道",阳江1
+https://live.yjtvw.com:8081/live/smil:yjtv1.smil/chunklist_b3628000.m3u8?zguangd
+#EXTINF:-1 tvg-id="guangdong" tvg-name="阳江2" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/chentaiyu0/cpabox/main/tv.png" group-title="📡广东频道",阳江2
+https://live.yjtvw.com:8081/live/smil:yjtv2.smil/chunklist_b3628000.m3u8?zguangd
