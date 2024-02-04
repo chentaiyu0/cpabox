@@ -1,5 +1,7 @@
 # cpabox
 
+## Thanks
+
 https://github.com/Meroser/IPTV?tab=readme-ov-file
 
 ## Getting started
