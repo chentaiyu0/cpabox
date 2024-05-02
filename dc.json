@@ -2,11 +2,11 @@
     "storeHouse": [
 		{
 			"sourceName": "❤️cpa•主仓",
-			"sourceUrl": "https://jihulab.com/yhico/cpabox/-/raw/main/cpa.json?ref_type=heads"
+			"sourceUrl": "https://gitlab.com/yhico/cpabox/-/raw/main/cpa.json?ref_type=heads"
 		},
 		{
 			"sourceName": "❤️cpa•备仓",
-			"sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/chentaiyu0/cpabox/main/cpa.json"
+			"sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/cpa.json"
 		},
 		{
 			"sourceName": "📢欧歌仓库①",
@@ -19,18 +19,6 @@
 		{
 			"sourceName": "📢欧歌仓库③",
 			"sourceUrl": "http://nxog.eu.org/nxog/ou1.php?url=http://nxog.eu.org&xl=1&b=欧歌"
-		},
-		{
-			"sourceName": "🎬超级仓库",
-			"sourceUrl": "https://www.agit.ai/hu/hcr/raw/branch/master/99668.txt"
-		},
-		{
-			"sourceName": "🔘砂锅仓库",
-			"sourceUrl": "https://www.agit.ai/ddx/TVBox/raw/branch/master/d.json"
-		},
-		{
-			"sourceName": "🕍涤灵苑仓库",
-			"sourceUrl": "https://www.agit.ai/hu/hcr/raw/branch/master/接口仓库模版.txt"
 		}
 	]
 }
