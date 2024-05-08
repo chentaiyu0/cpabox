@@ -221,6 +221,14 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8
 #EXTINF:-1 tvg-id="爱体育" tvg-name="爱体育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/ihot15.png" group-title="体育",爱体育
 https://epg.pw/stream/7e8bd46ec7e304d6a7de3d46047d5190807b488c4d2fa4404a31134080f52a38.m3u8
+#EXTINF:-1 tvg-id="乐球" tvg-name="乐球" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/leqiu.png" group-title="体育",乐球-1
+https://bf.njscwh.com/live/5003856.m3u8?txSecret=688fa613152399f84b1f6f54d7e8a0fd&txTime=663b3805
+#EXTINF:-1 tvg-id="乐球" tvg-name="乐球" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/leqiu.png" group-title="体育",乐球-2
+https://bf.njscwh.com/live/5004951.m3u8?txSecret=700616c63be9829885feca80290e352c&txTime=663b3865
+#EXTINF:-1 tvg-id="球视界" tvg-name="球视界" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/qsj.png" group-title="体育",球视界-1
+https://bf.njscwh.com/live/622632.m3u8?txSecret=585c767d58f546bc01ded0c9ae138e57&txTime=663b37cc
+#EXTINF:-1 tvg-id="球视界" tvg-name="球视界" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/qsj.png" group-title="体育",球视界-2
+https://bf.njscwh.com/live/622648.m3u8?txSecret=eb0c55f30c10597681f33b60e1c8cf0d&txTime=663b3840
 
 #咪咕体育
 #EXTINF:-1 tvg-id="咪咕直播" tvg-name="咪咕直播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/MG.png" group-title="咪咕",咪咕直播-1
