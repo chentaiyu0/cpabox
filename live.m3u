@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_CN.xml"
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg.pw.xml"
 
 #央视高清
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/CCTV1.png" group-title="央视",CCTV-1
@@ -11,12 +11,26 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/CCTV5.png" group-title="央视",CCTV-5
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/CCTV5.png" group-title="央视",CCTV-5
+https://stream1.freetv.fun/cctv-5-5.ctv
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/CCTV5.png" group-title="央视",CCTV-5
+https://stream1.freetv.fun/cctv5ti-yu-5.ctv
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/CCTV5.png" group-title="央视",CCTV-5
+https://stream1.freetv.fun/cctv5-63.ctv
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/CCTV5plus.png" group-title="央视",CCTV-5+
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/CCTV5plus.png" group-title="央视",CCTV-5+
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000132/index.m3u8?IAS
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/CCTV5plus.png" group-title="央视",CCTV-5+
+https://stream1.freetv.fun/cctv-5-plus-1.ctv
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/CCTV5plus.png" group-title="央视",CCTV-5+
+https://stream1.freetv.fun/cctv5-plus-12.ctv
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/CCTV5plus.png" group-title="央视",CCTV-5+
+https://stream1.freetv.fun/cctv5-74.m3u8
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/CCTV6.png" group-title="央视",CCTV-6
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/CCTV7.png" group-title="央视",CCTV-7
+https://stream1.freetv.fun/cctv7hd-2.ctv
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/CCTV7.png" group-title="央视",CCTV-7
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225671/index.m3u8
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/CCTV8.png" group-title="央视",CCTV-8
@@ -37,22 +51,42 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/CCTV16.png" group-title="央视",CCTV-16
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16 4K" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/CCTV16.png" group-title="央视",CCTV-16 4K
-https://tv.cry33.com/ys4k.php?id=16-4k
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/CCTV17.png" group-title="央视",CCTV-17
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K 超高清" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/CCTV4K.png" group-title="央视",CCTV4K 超高清
-https://tv.cry33.com/ys4k.php?id=4k
-#EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K 超高清" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/CCTV8K.png" group-title="央视",CCTV8K 超高清
-https://tv.cry33.com/ys4k.php?id=8k
 
 #卫视高清
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong.png" group-title="卫视",广东卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong.png" group-title="卫视",广东卫视
+https://stream1.freetv.fun/yan-dong-wei-shi-52.ctv
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong.png" group-title="卫视",广东卫视
+https://stream1.freetv.fun/ipv6-yan-dong-wei-shi-4.m3u8
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong.png" group-title="卫视",广东卫视
+https://stream1.freetv.fun/yan-dong-wei-shi-5.m3u8
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong.png" group-title="卫视",广东卫视
+https://stream1.freetv.fun/yan-dong-wei-shi-71.ctv
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong.png" group-title="卫视",广东卫视
+https://stream1.freetv.fun/yan-dong-wei-shi-51.m3u8
+#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong.png" group-title="卫视",大湾区卫视
+https://stream1.freetv.fun/da-wan-qu-wei-shi-9.ctv
+#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong.png" group-title="卫视",大湾区卫视
+https://stream1.freetv.fun/da-wan-qu-wei-shi-15.m3u8
+#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong.png" group-title="卫视",大湾区卫视
+https://stream1.freetv.fun/da-wan-qu-wei-shi-8.ctv
+#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong.png" group-title="卫视",大湾区卫视
+https://stream1.freetv.fun/da-wan-qu-wei-shi-2.ctv
+#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong.png" group-title="卫视",大湾区卫视
+https://stream1.freetv.fun/da-wan-qu-wei-shi-12.ctv
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Shenzhen.png" group-title="卫视",深圳卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
-#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong.png" group-title="卫视",大湾区卫视
-http://php.jdshipin.com:8880/chudian.php?id=nfws
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Shenzhen.png" group-title="卫视",深圳卫视
+https://stream1.freetv.fun/ipv6-shen-zhen-wei-shi-6.m3u8
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Shenzhen.png" group-title="卫视",深圳卫视
+https://stream1.freetv.fun/shen-zhen-wei-shi-65.m3u8
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Shenzhen.png" group-title="卫视",深圳卫视
+https://stream1.freetv.fun/shen-zhen-wei-shi-3.m3u8
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Shenzhen.png" group-title="卫视",深圳卫视
+https://stream1.freetv.fun/shen-zhen-wei-shi-7.m3u8
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Beijing.png" group-title="卫视",北京卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Dongfang.png" group-title="卫视",东方卫视
@@ -81,6 +115,8 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a0b:df::4020]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Henan.png" group-title="卫视",河南卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Hubei.png" group-title="卫视",湖北卫视
+https://stream1.freetv.fun/hu-bei-wei-shi-59.ctv
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Hubei.png" group-title="卫视",湖北卫视
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225975/index.m3u8
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Sichuan.png" group-title="卫视",四川卫视
@@ -115,234 +151,410 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010110/1.m3u8
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010113/1.m3u8
 
 #广东
-#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong9.png" group-title="广东",广东珠江
-https://epg.pw/stream/72a0372fa098a8e50619f1d4f1b5d3185bbd8c1e0198402d5fb8e3d08995bfac.m3u8
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong.png" group-title="广东",广东卫视
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong.png" group-title="广东",广东卫视-[G]
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
-#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong.png" group-title="广东",大湾区卫视
-http://php.jdshipin.com:8880/chudian.php?id=nfws
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong.png" group-title="广东",广东卫视-[G]
+https://stream1.freetv.fun/yan-dong-wei-shi-52.ctv
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong.png" group-title="广东",广东卫视-[G]
+https://stream1.freetv.fun/ipv6-yan-dong-wei-shi-4.m3u8
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong.png" group-title="广东",广东卫视-[G]
+https://stream1.freetv.fun/yan-dong-wei-shi-5.m3u8
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong.png" group-title="广东",广东卫视-[G]
+https://stream1.freetv.fun/yan-dong-wei-shi-71.ctv
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong.png" group-title="广东",广东卫视-[G]
+https://stream1.freetv.fun/yan-dong-wei-shi-51.m3u8
+#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong.png" group-title="广东",大湾区卫视-[G]
+https://stream1.freetv.fun/da-wan-qu-wei-shi-9.ctv
+#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong.png" group-title="广东",大湾区卫视-[G]
+https://stream1.freetv.fun/da-wan-qu-wei-shi-15.m3u8
+#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong.png" group-title="广东",大湾区卫视-[G]
+https://stream1.freetv.fun/da-wan-qu-wei-shi-8.ctv
+#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong.png" group-title="广东",大湾区卫视-[G]
+https://stream1.freetv.fun/da-wan-qu-wei-shi-2.ctv
+#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong.png" group-title="广东",大湾区卫视-[G]
+https://stream1.freetv.fun/da-wan-qu-wei-shi-12.ctv
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Shenzhen.png" group-title="广东",深圳卫视-[G]
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Shenzhen.png" group-title="广东",深圳卫视-[G]
+https://stream1.freetv.fun/ipv6-shen-zhen-wei-shi-6.m3u8
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Shenzhen.png" group-title="广东",深圳卫视-[G]
+https://stream1.freetv.fun/shen-zhen-wei-shi-65.m3u8
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Shenzhen.png" group-title="广东",深圳卫视-[G]
+https://stream1.freetv.fun/shen-zhen-wei-shi-3.m3u8
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Shenzhen.png" group-title="广东",深圳卫视-[G]
+https://stream1.freetv.fun/shen-zhen-wei-shi-7.m3u8
+#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong9.png" group-title="广东",广东珠江
+https://stream1.freetv.fun/yan-dong-zhu-jiang-7.m3u8
+#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong9.png" group-title="广东",广东珠江
+https://stream1.freetv.fun/ipv6-yan-dong-zhu-jiang-14.m3u8
+#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong9.png" group-title="广东",广东珠江
+https://stream1.freetv.fun/ipv6-yan-dong-zhu-jiang-8.m3u8
+#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong9.png" group-title="广东",广东珠江
+https://stream1.freetv.fun/ipv6-yan-dong-zhu-jiang-18.m3u8
+#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong9.png" group-title="广东",广东珠江
+https://stream1.freetv.fun/yan-dong-zhu-jiang-11.m3u8
+#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong9.png" group-title="广东",广东珠江
+https://stream1.freetv.fun/yan-dong-zhu-jiang-25.m3u8
+#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong9.png" group-title="广东",广东珠江
+https://stream1.freetv.fun/yan-dong-zhu-jiang-4.m3u8
+#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong9.png" group-title="广东",广东珠江
+https://stream1.freetv.fun/yan-dong-zhu-jiang-13.ctv
+#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong9.png" group-title="广东",广东珠江
+https://stream1.freetv.fun/yan-dong-zhu-jiang-6.ctv
+#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong9.png" group-title="广东",广东珠江
+https://stream1.freetv.fun/yan-dong-zhu-jiang-12.ctv
+#EXTINF:-1 tvg-id="广东新闻" tvg-name="广东新闻" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong1.png" group-title="广东",广东新闻
+https://stream1.freetv.fun/yan-dong-xin-wen-12.ctv
+#EXTINF:-1 tvg-id="广东新闻" tvg-name="广东新闻" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong1.png" group-title="广东",广东新闻
+https://stream1.freetv.fun/yan-dong-xin-wen-8.m3u8
+#EXTINF:-1 tvg-id="广东新闻" tvg-name="广东新闻" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong1.png" group-title="广东",广东新闻
+https://stream1.freetv.fun/yan-dong-xin-wen-15.m3u
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong5.png" group-title="广东",广东体育
-http://php.jdshipin.com:8880/chudian.php?id=gdty
+https://stream1.freetv.fun/yan-dong-ti-yu-15.ctv
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong5.png" group-title="广东",广东体育
-https://epg.pw/stream/400d513c00980f7c4ababbd199234dc049cfdab4531b0da0f0fa0de0d63602d3.m3u8
+https://stream1.freetv.fun/yan-dong-ti-yu-4.m3u8
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong5.png" group-title="广东",广东体育
-https://epg.pw/stream/ff6983ce34a2ad295545550992df113dfeb39a061f903a8cf4dd426451c7530b.m3u8
-#EXTINF:-1 tvg-id="广东移动" tvg-name="广东移动" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong15.png" group-title="广东",广东移动
-http://php.jdshipin.com:8880/chudian.php?id=gdyd
+https://stream1.freetv.fun/yan-dong-ti-yu-20.m3u8
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong5.png" group-title="广东",广东体育
+https://stream1.freetv.fun/yan-dong-ti-yu-10.m3u8
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong5.png" group-title="广东",广东体育
+https://stream1.freetv.fun/yan-dong-ti-yu-19.m3u8
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong5.png" group-title="广东",广东体育
+https://stream1.freetv.fun/yan-dong-ti-yu-18.m3u8
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong5.png" group-title="广东",广东体育
+https://stream1.freetv.fun/yan-dong-ti-yu-7.m3u8
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong5.png" group-title="广东",广东体育
+https://stream1.freetv.fun/yan-dong-ti-yu-8.m3u8
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong5.png" group-title="广东",广东体育
+https://stream1.freetv.fun/yan-dong-ti-yu-12.ctv
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong5.png" group-title="广东",广东体育
+https://stream1.freetv.fun/yan-dong-ti-yu-16.m3u8
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong5.png" group-title="广东",广东体育
+https://stream1.freetv.fun/yan-dong-ti-yu-14.m3u8
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong5.png" group-title="广东",广东体育
+https://stream1.freetv.fun/yan-dong-ti-yu-13.ctv
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong5.png" group-title="广东",广东体育
+https://stream1.freetv.fun/yan-dong-ti-yu-1.m3u8
+#EXTINF:-1 tvg-id="广东民生" tvg-name="广东民生" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong2.png" group-title="广东",广东民生
+https://stream1.freetv.fun/yan-dong-gong-gong-6.ctv
+#EXTINF:-1 tvg-id="广东民生" tvg-name="广东民生" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong2.png" group-title="广东",广东民生
+https://stream1.freetv.fun/yan-dong-gong-gong-3.m3u8
+#EXTINF:-1 tvg-id="广东民生" tvg-name="广东民生" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong2.png" group-title="广东",广东民生
+https://stream1.freetv.fun/yan-dong-min-sheng-5.ctv
+#EXTINF:-1 tvg-id="广东民生" tvg-name="广东民生" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong2.png" group-title="广东",广东民生
+https://stream1.freetv.fun/yan-dong-min-sheng-1.ctv
+#EXTINF:-1 tvg-id="广东民生" tvg-name="广东民生" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong2.png" group-title="广东",广东民生
+https://stream1.freetv.fun/yan-dong-min-sheng-2.m3u8
+#EXTINF:-1 tvg-id="广东影视" tvg-name="广东影视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong3.png" group-title="广东",广东影视
+https://stream1.freetv.fun/yan-dong-ying-shi-14.ctv
+#EXTINF:-1 tvg-id="广东影视" tvg-name="广东影视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong3.png" group-title="广东",广东影视
+https://stream1.freetv.fun/yan-dong-ying-shi-12.ctv
+#EXTINF:-1 tvg-id="广东影视" tvg-name="广东影视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong3.png" group-title="广东",广东影视
+https://stream1.freetv.fun/yan-dong-ying-shi-6.m3u8
+#EXTINF:-1 tvg-id="广东经济科教" tvg-name="广东经济科教" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong7.png" group-title="广东",广东经济科教
+https://stream1.freetv.fun/yan-dong-jing-ji-ke-jiao-6.ctv
+#EXTINF:-1 tvg-id="广东经济科教" tvg-name="广东经济科教" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong7.png" group-title="广东",广东经济科教
+https://stream1.freetv.fun/yan-dong-ke-jiao-2.ctv
+#EXTINF:-1 tvg-id="广东经济科教" tvg-name="广东经济科教" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong7.png" group-title="广东",广东经济科教
+https://stream1.freetv.fun/yan-dong-jing-ji-ke-jiao-3.ct
+#EXTINF:-1 tvg-id="广东少儿" tvg-name="广东少儿" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong6.png" group-title="广东",广东少儿
+https://stream1.freetv.fun/yan-dong-shao-er-13.ctv
+#EXTINF:-1 tvg-id="广东少儿" tvg-name="广东少儿" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong6.png" group-title="广东",广东少儿
+https://stream1.freetv.fun/yan-dong-shao-er-4.m3u8
+#EXTINF:-1 tvg-id="广东少儿" tvg-name="广东少儿" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong6.png" group-title="广东",广东少儿
+https://stream1.freetv.fun/yan-dong-shao-er-1.m3u8
+#EXTINF:-1 tvg-id="广东少儿" tvg-name="广东少儿" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong6.png" group-title="广东",广东少儿
+https://stream1.freetv.fun/yan-dong-shao-er-3.ctv
+#EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangzhou1.png" group-title="广东",广州综合
+https://stream1.freetv.fun/yan-zhou-zong-he-2.ctv
+#EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangzhou1.png" group-title="广东",广州综合
+https://stream1.freetv.fun/yan-zhou-zong-he-3.ctv
+#EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangzhou1.png" group-title="广东",广州综合
+https://stream1.freetv.fun/yan-zhou-zong-he-8.ctv
+#EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangzhou1.png" group-title="广东",广州综合
+https://stream1.freetv.fun/yan-zhou-zong-he-4.ctv
 #EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangzhou1.png" group-title="广东",广州综合
 https://epg.pw/stream/a0e9caf340aadd0adb81902a099b7c9463282ea19d60993d3b6a757c4adc3295.m3u8
+#EXTINF:-1 tvg-id="广州新闻" tvg-name="广州新闻" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangzhou2.png" group-title="广东",广州新闻
+https://stream1.freetv.fun/yan-zhou-xin-wen-4.ctv
+#EXTINF:-1 tvg-id="广州新闻" tvg-name="广州新闻" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangzhou2.png" group-title="广东",广州新闻
+https://stream1.freetv.fun/yan-zhou-xin-wen-5.ctv
+#EXTINF:-1 tvg-id="广州新闻" tvg-name="广州新闻" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangzhou2.png" group-title="广东",广州新闻
+https://stream1.freetv.fun/yan-zhou-xin-wen-6.ctv
+#EXTINF:-1 tvg-id="广州新闻" tvg-name="广州新闻" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangzhou2.png" group-title="广东",广州新闻
+https://stream1.freetv.fun/yan-zhou-xin-wen-1.ctv
+#EXTINF:-1 tvg-id="广州新闻" tvg-name="广州新闻" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangzhou2.png" group-title="广东",广州新闻
+https://stream1.freetv.fun/yan-zhou-xin-wen-7.ctv
 #EXTINF:-1 tvg-id="广州新闻" tvg-name="广州新闻" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangzhou2.png" group-title="广东",广州新闻
 http://php.jdshipin.com:8880/gztv.php?id=xinwen
 #EXTINF:-1 tvg-id="广州竞赛" tvg-name="广州竞赛" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangzhou4.png" group-title="广东",广州竞赛
 http://php.jdshipin.com:8880/gztv.php?id=jingsai
+#EXTINF:-1 tvg-id="广州竞赛" tvg-name="广州竞赛" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangzhou4.png" group-title="广东",广州竞赛
+https://stream1.freetv.fun/yan-zhou-jing-sai-5.m3u8
+#EXTINF:-1 tvg-id="广州竞赛" tvg-name="广州竞赛" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangzhou4.png" group-title="广东",广州竞赛
+https://stream1.freetv.fun/yan-zhou-jing-sai-1.ctv
+#EXTINF:-1 tvg-id="广州竞赛" tvg-name="广州竞赛" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangzhou4.png" group-title="广东",广州竞赛
+https://stream1.freetv.fun/yan-zhou-jing-sai-6.m3u8
+#EXTINF:-1 tvg-id="广州竞赛" tvg-name="广州竞赛" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangzhou4.png" group-title="广东",广州竞赛
+https://stream1.freetv.fun/yan-zhou-jing-sai-7.m3u8
+#EXTINF:-1 tvg-id="广州影视" tvg-name="广州影视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangzhou5.png" group-title="广东",广州影视
+https://stream1.freetv.fun/yan-zhou-ying-shi-2.ctv
+#EXTINF:-1 tvg-id="广州影视" tvg-name="广州影视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangzhou5.png" group-title="广东",广州影视
+https://stream1.freetv.fun/yan-zhou-ying-shi-3.ctv
+#EXTINF:-1 tvg-id="广州影视" tvg-name="广州影视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangzhou5.png" group-title="广东",广州影视
+https://stream1.freetv.fun/yan-zhou-ying-shi-6.ctv
+#EXTINF:-1 tvg-id="广州影视" tvg-name="广州影视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangzhou5.png" group-title="广东",广州影视
+https://stream1.freetv.fun/yan-zhou-ying-shi-9.m3u8
 #EXTINF:-1 tvg-id="广州影视" tvg-name="广州影视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangzhou5.png" group-title="广东",广州影视
 http://php.jdshipin.com:8880/gztv.php?id=yingshi
+#EXTINF:-1 tvg-id="广州法治" tvg-name="广州法治" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangzhou3.png" group-title="广东",广州法治
+https://stream1.freetv.fun/yan-zhou-fa-zhi-3.ctv
+#EXTINF:-1 tvg-id="广州法治" tvg-name="广州法治" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangzhou3.png" group-title="广东",广州法治
+https://stream1.freetv.fun/yan-zhou-fa-zhi-4.ctv
+#EXTINF:-1 tvg-id="广州法治" tvg-name="广州法治" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangzhou3.png" group-title="广东",广州法治
+https://stream1.freetv.fun/yan-zhou-fa-zhi-2.ctv
 #EXTINF:-1 tvg-id="广州法治" tvg-name="广州法治" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangzhou3.png" group-title="广东",广州法治
 http://php.jdshipin.com:8880/gztv.php?id=fazhi
 #EXTINF:-1 tvg-id="广州南国都市" tvg-name="广州南国都市" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangzhou6.png" group-title="广东",广州南国都市
 http://php.jdshipin.com:8880/gztv.php?id=shenghuo
-#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Shenzhen.png" group-title="广东",深圳卫视
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
+#EXTINF:-1 tvg-id="深圳都市" tvg-name="深圳都市" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Shenzhen1.png" group-title="广东",深圳都市
+https://stream1.freetv.fun/shen-zhen-du-shi-5.m3u8
+#EXTINF:-1 tvg-id="深圳都市" tvg-name="深圳都市" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Shenzhen1.png" group-title="广东",深圳都市
+https://stream1.freetv.fun/shen-zhen-du-shi-3.m3u8
+#EXTINF:-1 tvg-id="深圳都市" tvg-name="深圳都市" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Shenzhen1.png" group-title="广东",深圳都市
+https://stream1.freetv.fun/shen-zhen-du-shi-2.m3u8
 #EXTINF:-1 tvg-id="深圳都市" tvg-name="深圳都市" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Shenzhen1.png" group-title="广东",深圳都市
 https://epg.pw/stream/42922b3bab314ce0217fdf746165de08e00d0556ebf961ee63049811baacc5ac.m3u8
-#EXTINF:-1 tvg-id="GRTN文化频道" tvg-name="GRTN文化频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong.png" group-title="广东",GRTN文化频道
-https://glive.grtn.cn/live/wenhua_test0203.m3u8
-#EXTINF:-1 tvg-id="GRTN生活频道" tvg-name="GRTN生活频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong.png" group-title="广东",GRTN生活频道
-http://glive.grtn.cn/live/life.m3u8
-#EXTINF:-1 tvg-id="GRTN纪录片频道" tvg-name="GRTN纪录片频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong.png" group-title="广东",GRTN纪录片频道
-http://glive.grtn.cn/live/jilupian.m3u8
-#EXTINF:-1 tvg-id="GRTN健康频道" tvg-name="GRTN健康频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong.png" group-title="广东",GRTN健康频道
-http://glive.grtn.cn/live/health.m3u8
-#EXTINF:-1 tvg-id="GRTN荔枝台" tvg-name="GRTN荔枝台" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong.png" group-title="广东",GRTN荔枝台
-http://glive.grtn.cn/live/lizhi.m3u8
-
-#数字高清
-#EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/CHC1.png" group-title="数字",CHC高清电影
-https://epg.pw/stream/513b5aea95520a37ae24d3ef1be5f02e0bbb0b3b937c0bb6d4154722a9a2d8fd.m3u8
-#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/CHC2.png" group-title="数字",CHC家庭影院
-https://epg.pw/stream/085a38ada3bf036f74dc58987291160253095044bdff40a127b5578345656db0.m3u8
-#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/CHC3.png" group-title="数字",CHC动作电影
-https://epg.pw/stream/9e5dbc0cbb15ba574f44e0d67c54cff2c85a7ed97dbb73e3b2101b26fec45cf1.m3u8
-#EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/hmdy.png" group-title="数字",黑莓电影
-https://epg.pw/stream/f46014baef67a3ce1206441961fa942e3aaa7a7ea5d6d92826dec84bb95f713d.m3u8
-#EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/hmdh.png" group-title="数字",黑莓动画
-https://epg.pw/stream/866804d9ec902efc4390291e022bf77d5392e8aa92281f929ed68adb08bfc2d5.m3u8
-#EXTINF:-1 tvg-id="哒啵赛事" tvg-name="哒啵赛事" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/dbss.png" group-title="数字",哒啵赛事
-https://epg.pw/stream/c9c1580e6c338773e4e77853c734c87056be919c7e7b9a82816a6b371e3674e6.m3u8
+#EXTINF:-1 tvg-id="深圳电视剧" tvg-name="深圳电视剧" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Shenzhen2.png" group-title="广东",深圳电视剧
+https://stream1.freetv.fun/shen-zhen-dian-shi-ju-7.m3u8
+#EXTINF:-1 tvg-id="深圳电视剧" tvg-name="深圳电视剧" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Shenzhen2.png" group-title="广东",深圳电视剧
+https://stream1.freetv.fun/shen-zhen-dian-shi-ju-3.m3u8
+#EXTINF:-1 tvg-id="深圳电视剧" tvg-name="深圳电视剧" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Shenzhen2.png" group-title="广东",深圳电视剧
+https://stream1.freetv.fun/shen-zhen-dian-shi-ju-2.m3u8
+#EXTINF:-1 tvg-id="深圳公共" tvg-name="深圳公共" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Shenzhen3.png" group-title="广东",深圳公共
+https://stream1.freetv.fun/shen-zhen-gong-gong-1.m3u8
+#EXTINF:-1 tvg-id="深圳公共" tvg-name="深圳公共" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Shenzhen3.png" group-title="广东",深圳公共
+https://stream1.freetv.fun/shen-zhen-gong-gong-5.m3u8
+#EXTINF:-1 tvg-id="深圳公共" tvg-name="深圳公共" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Shenzhen3.png" group-title="广东",深圳公共
+https://stream1.freetv.fun/shen-zhen-gong-gong-6.m3u8
+#EXTINF:-1 tvg-id="深圳娱乐" tvg-name="深圳娱乐" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Shenzhen5.png" group-title="广东",深圳娱乐
+https://stream1.freetv.fun/shen-zhen-yu-le-1.m3u8
+#EXTINF:-1 tvg-id="深圳娱乐" tvg-name="深圳娱乐" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Shenzhen5.png" group-title="广东",深圳娱乐
+https://stream1.freetv.fun/shen-zhen-yu-le-3.m3u8
+#EXTINF:-1 tvg-id="深圳体育" tvg-name="深圳体育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Shenzhen8.png" group-title="广东",深圳体育
+https://stream1.freetv.fun/shen-zhen-ti-yu-2.m3u8
 
 #港澳台
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Phoenix1.png" group-title="港澳台",凤凰中文
+https://stream1.freetv.fun/feng-huang-wei-shi-7.m3u8
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Phoenix1.png" group-title="港澳台",凤凰中文
+https://stream1.freetv.fun/feng-huang-zhong-wen-8.ctv
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Phoenix1.png" group-title="港澳台",凤凰中文
+https://stream1.freetv.fun/feng-huang-zhong-wen-14.m3u8
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Phoenix1.png" group-title="港澳台",凤凰中文
+https://stream1.freetv.fun/feng-huang-zhong-wen-4.m3u8
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Phoenix1.png" group-title="港澳台",凤凰中文
 https://epg.pw/stream/4e695e885cc20b20b7e3ec874fe52ed75e27443778c8ff29e498c4c9d7cec4a0.m3u8
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Phoenix1.png" group-title="港澳台",凤凰中文
+https://stream1.freetv.fun/feng-huang-zhong-wen-12.m3u8
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Phoenix1.png" group-title="港澳台",凤凰中文
+https://stream1.freetv.fun/feng-huang-zhong-wen--gao-qing-1.m3u8
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Phoenix1.png" group-title="港澳台",凤凰中文
+https://stream1.freetv.fun/ipv6-feng-huang-zhong-wen--8m1080-1.m3u8
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Phoenix1.png" group-title="港澳台",凤凰中文
+https://stream1.freetv.fun/feng-huang-zhong-wen-6.m3u8
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Phoenix2.png" group-title="港澳台",凤凰资讯
+https://stream1.freetv.fun/feng-huang-zi-xun-10.ctv
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Phoenix2.png" group-title="港澳台",凤凰资讯
+https://stream1.freetv.fun/feng-huang-zi-xun-3.ctv
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Phoenix2.png" group-title="港澳台",凤凰资讯
 https://epg.pw/stream/6cb73e3cad873d275ae7399762214060046e7b08b051b249f8bdb95ec3fea2fc.ctv
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Phoenix2.png" group-title="港澳台",凤凰资讯
+https://stream1.freetv.fun/feng-huang-zi-xun-9.m3u8
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Phoenix2.png" group-title="港澳台",凤凰资讯
+https://stream1.freetv.fun/feng-huang-zi-xun-2.m3u8
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Phoenix2.png" group-title="港澳台",凤凰资讯
+https://stream1.freetv.fun/feng-huang-zi-xun-11.m3u8
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Phoenix2.png" group-title="港澳台",凤凰资讯
+https://stream1.freetv.fun/feng-huang-zi-xun-7.ctv
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Phoenix2.png" group-title="港澳台",凤凰资讯
+https://stream1.freetv.fun/feng-huang-zi-xun-4.m3u8
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Phoenix2.png" group-title="港澳台",凤凰资讯
+https://stream1.freetv.fun/feng-huang-zi-xun-13.m3u8
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Phoenix2.png" group-title="港澳台",凤凰资讯
+https://stream1.freetv.fun/feng-huang-zi-xun-5.m3u8
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Phoenix3.png" group-title="港澳台",凤凰香港
 https://epg.pw/stream/b3ab43b2415df405226d5b25f38e51432ca7d32b5a240e0aa1f3e201d181442f.m3u8
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/TVB2.png" group-title="港澳台",明珠台
-https://epg.pw/stream/00a74ca4020cd952c9e1ff1f90b8f7b9be9c1da4f0a915e1e0aa7c9dfa356197.ctv
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Phoenix3.png" group-title="港澳台",凤凰香港
+https://stream1.freetv.fun/feng-huang-xiang-gang-3.ctv
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Phoenix3.png" group-title="港澳台",凤凰香港
+https://stream1.freetv.fun/feng-huang-xiang-gang-10.ctv
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Phoenix3.png" group-title="港澳台",凤凰香港
+https://stream1.freetv.fun/feng-huang-xiang-gang-7.m3u8
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Phoenix3.png" group-title="港澳台",凤凰香港
+https://stream1.freetv.fun/feng-huang-xiang-gang-6.m3u8
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Phoenix3.png" group-title="港澳台",凤凰香港
+https://stream1.freetv.fun/feng-huang-xiang-gang-4.m3u8
+#EXTINF:-1 tvg-id="TVB翡翠" tvg-name="TVB翡翠" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/TVB1.png" group-title="港澳台",TVB翡翠
+https://stream1.freetv.fun/tvbfei-cui-3.m3u8
+#EXTINF:-1 tvg-id="TVB翡翠" tvg-name="TVB翡翠" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/TVB1.png" group-title="港澳台",TVB翡翠
+https://stream1.freetv.fun/fei-cui-3.ctv
+#EXTINF:-1 tvg-id="TVB翡翠" tvg-name="TVB翡翠" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/TVB1.png" group-title="港澳台",TVB翡翠
+https://stream1.freetv.fun/fei-cui-7.m3u8
+#EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/TVB6.png" group-title="港澳台",TVB星河
+https://stream1.freetv.fun/tvbxing-he-1.m3u8
+#EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/TVB6.png" group-title="港澳台",TVB星河
+https://stream1.freetv.fun/tvbxing-he-3.m3u8
 #EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/TVB6.png" group-title="港澳台",TVB星河
 https://epg.pw/stream/eee97f3ab8d484adff720fc3c90eb1f280b02264d5d2e3971262bb416aab5767.m3u8
-#EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/HKS.png" group-title="港澳台",香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/TVB2.png" group-title="港澳台",明珠台
+https://epg.pw/stream/00a74ca4020cd952c9e1ff1f90b8f7b9be9c1da4f0a915e1e0aa7c9dfa356197.ctv
 #EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/TVB4.png" group-title="港澳台",无线新闻
 http://live.cooltv.top/tv/tvb.php?id=0&hq
+#EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/HKS.png" group-title="港澳台",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
+#EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/HKS.png" group-title="港澳台",香港卫视
+https://stream1.freetv.fun/xiang-gang-wei-shi-2.ctv
+#EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/HKS.png" group-title="港澳台",香港卫视
+https://stream1.freetv.fun/xiang-gang-wei-shi-6.m3u8
+#EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/HKS.png" group-title="港澳台",香港卫视
+https://stream1.freetv.fun/xiang-gang-wei-shi-1.ctv
+#EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/HKS.png" group-title="港澳台",香港卫视
+https://stream1.freetv.fun/xiang-gang-wei-shi-4.m3u8
+#EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/HKS.png" group-title="港澳台",香港卫视
+https://stream1.freetv.fun/xiang-gang-wei-shi-5.m3u8
+#EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/HKS.png" group-title="港澳台",香港卫视
+https://stream1.freetv.fun/xiang-gang-wei-shi-3.m3u8
+#EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/HKS.png" group-title="港澳台",香港卫视
+https://stream1.freetv.fun/hks-1.ctv
+#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/TVBS4.png" group-title="港澳台",TVBS
+https://stream1.freetv.fun/tvbsya-zhou-5.m3u8
+#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/TVBS4.png" group-title="港澳台",TVBS
+https://stream1.freetv.fun/tvbsya-zhou-6.m3u8
+#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/TVBS4.png" group-title="港澳台",TVBS
+https://stream1.freetv.fun/tvbsya-zhou-7.m3u8
+#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/TVBS4.png" group-title="港澳台",TVBS
+https://stream1.freetv.fun/tvbsya-zhou-2.m3u8
+#EXTINF:-1 tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/TVBS1.png" group-title="港澳台",TVBS新闻台
+https://stream1.freetv.fun/tvbsxin-wen-5.m3u8
+#EXTINF:-1 tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/TVBS1.png" group-title="港澳台",TVBS新闻台
+https://stream1.freetv.fun/tvbsxin-wen-1.ctv
+#EXTINF:-1 tvg-id="TVBS NEWS" tvg-name="TVBS NEWS" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/TVBS.png" group-title="港澳台",TVBS NEWS
+https://stream1.freetv.fun/tvbsxin-wen-4.m3u8
 #EXTINF:-1 tvg-id="番薯台" tvg-name="番薯台" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/fanshutv.png" group-title="港澳台",番薯台
 http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
-#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/ChannelAsia.png" group-title="港澳台",CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-id="纬来日本" tvg-name="纬来日本" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Videoland5.png" group-title="港澳台",纬来日本
-rtmp://f13h.mine.nu/sat/tv771
-#EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Videoland7.png" group-title="港澳台",纬来体育
-rtmp://f13h.mine.nu/sat/tv721
+#EXTINF:-1 tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Startv.png" group-title="港澳台",星空卫视
+https://stream1.freetv.fun/xing-kong-wei-shi-5.m3u8
 #EXTINF:-1 tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Startv.png" group-title="港澳台",星空卫视
 https://epg.pw/stream/295e40de2803afdf3bdd9e10c5468e14227aca3ddcb253c76c5124bd0b09e1a7.ctv
+#EXTINF:-1 tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Startv.png" group-title="港澳台",星空卫视
+https://stream1.freetv.fun/xing-kong-wei-shi-6.ctv
+#EXTINF:-1 tvg-id="纬来日本" tvg-name="纬来日本" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Videoland5.png" group-title="港澳台",纬来日本
+rtmp://f13h.mine.nu/sat/tv771
+#EXTINF:-1 tvg-id="纬来日本" tvg-name="纬来日本" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Videoland5.png" group-title="港澳台",纬来日本
+https://stream1.freetv.fun/wei-lai-ri-ben-8.m3u8
+#EXTINF:-1 tvg-id="纬来综合" tvg-name="纬来综合" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Videoland1.png" group-title="港澳台",纬来综合
+https://stream1.freetv.fun/wei-lai-zong-he-3.m3u8
+#EXTINF:-1 tvg-id="纬来育乐" tvg-name="纬来育乐" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Videoland6.png" group-title="港澳台",纬来育乐
+https://stream1.freetv.fun/wei-lai-zong-he-3.m3u8
+#EXTINF:-1 tvg-id="纬来育乐" tvg-name="纬来育乐" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Videoland6.png" group-title="港澳台",纬来育乐
+https://stream1.freetv.fun/wei-lai-zong-he-3.m3u8
+#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/ChannelAsia.png" group-title="港澳台",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/ChannelAsia.png" group-title="港澳台",CNA
+https://stream1.freetv.fun/cna-4.m3u8
+#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/ChannelAsia.png" group-title="港澳台",CNA
+https://stream1.freetv.fun/cna-9.ctv
+#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/ChannelAsia.png" group-title="港澳台",CNA
+https://stream1.freetv.fun/cna-3.m3u8
 
-#体育
-#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong5.png" group-title="体育",广东体育
-http://php.jdshipin.com:8880/chudian.php?id=gdty
-#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong5.png" group-title="体育",广东体育
-https://epg.pw/stream/400d513c00980f7c4ababbd199234dc049cfdab4531b0da0f0fa0de0d63602d3.m3u8
-#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong5.png" group-title="体育",广东体育
-https://epg.pw/stream/ff6983ce34a2ad295545550992df113dfeb39a061f903a8cf4dd426451c7530b.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/CCTV5.png" group-title="体育",CCTV-5
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/CCTV5plus.png" group-title="体育",CCTV-5+
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/CCTV5plus.png" group-title="体育",CCTV-5+
-http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000132/index.m3u8?IAS
-#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Shanghai5.png" group-title="体育",五星体育
-https://epg.pw/stream/4881181ce7c229726cc597354dcd8ac833357167c1f7af8b48b2d08267400041.m3u8
-#EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Videoland7.png" group-title="体育",纬来体育
-rtmp://f13h.mine.nu/sat/tv721
-#EXTINF:-1 tvg-id="广州竞赛" tvg-name="广州竞赛" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangzhou4.png" group-title="体育",广州竞赛
-http://php.jdshipin.com:8880/gztv.php?id=jingsai
-#EXTINF:-1 tvg-id="超级体育" tvg-name="超级体育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/NewTV22.png" group-title="体育",超级体育
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
-#EXTINF:-1 tvg-id="精品体育" tvg-name="精品体育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/NewTV18.png" group-title="体育",精品体育
-https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8
-#EXTINF:-1 tvg-id="爱体育" tvg-name="爱体育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/ihot15.png" group-title="体育",爱体育
-https://epg.pw/stream/7e8bd46ec7e304d6a7de3d46047d5190807b488c4d2fa4404a31134080f52a38.m3u8
-
-#咪咕体育
-#EXTINF:-1 tvg-id="咪咕直播" tvg-name="咪咕直播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/MG.png" group-title="咪咕",咪咕直播-1
-http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225611/index.m3u8
-#EXTINF:-1 tvg-id="咪咕直播" tvg-name="咪咕直播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/MG.png" group-title="咪咕",咪咕直播-2
-http://[2409:8087:1a01:df::4005]/PLTV/88888888/224/3221225613/index.m3u8
-#EXTINF:-1 tvg-id="咪咕直播" tvg-name="咪咕直播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/MG.png" group-title="咪咕",咪咕直播-3
-http://[2409:8087:1a01:df::4014]/PLTV/88888888/224/3221225617/index.m3u8
-#EXTINF:-1 tvg-id="咪咕直播" tvg-name="咪咕直播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/MG.png" group-title="咪咕",咪咕直播-4
-http://[2409:8087:1a01:df::4017]/PLTV/88888888/224/3221225619/index.m3u8
-#EXTINF:-1 tvg-id="咪咕直播" tvg-name="咪咕直播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/MG.png" group-title="咪咕",咪咕直播-5
-http://[2409:8087:1a01:df::4058]/PLTV/88888888/224/3221225620/index.m3u8
-#EXTINF:-1 tvg-id="咪咕直播" tvg-name="咪咕直播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/MG.png" group-title="咪咕",咪咕直播-6
-http://[2409:8087:1a01:df::4015]/PLTV/88888888/224/3221225639/index.m3u8
-#EXTINF:-1 tvg-id="咪咕直播" tvg-name="咪咕直播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/MG.png" group-title="咪咕",咪咕直播-7
-http://[2409:8087:1a01:df::4015]/PLTV/88888888/224/3221225641/index.m3u8
-#EXTINF:-1 tvg-id="咪咕直播" tvg-name="咪咕直播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/MG.png" group-title="咪咕",咪咕直播-8
-http://[2409:8087:1a01:df::4011]/PLTV/88888888/224/3221225643/index.m3u8
-#EXTINF:-1 tvg-id="咪咕直播" tvg-name="咪咕直播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/MG.png" group-title="咪咕",咪咕直播-9
-http://[2409:8087:1a01:df::4002]/PLTV/88888888/224/3221225645/index.m3u8
-#EXTINF:-1 tvg-id="咪咕直播" tvg-name="咪咕直播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/MG.png" group-title="咪咕",咪咕直播-10
-http://[2409:8087:1a01:df::4016]/PLTV/88888888/224/3221225647/index.m3u8
-#EXTINF:-1 tvg-id="咪咕直播" tvg-name="咪咕直播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/MG.png" group-title="咪咕",咪咕直播-11
-http://[2409:8087:1a01:df::4022]/PLTV/88888888/224/3221225648/index.m3u8
-#EXTINF:-1 tvg-id="咪咕直播" tvg-name="咪咕直播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/MG.png" group-title="咪咕",咪咕直播-12
-http://[2409:8087:1a01:df::4003]/PLTV/88888888/224/3221225649/index.m3u8
-#EXTINF:-1 tvg-id="咪咕直播" tvg-name="咪咕直播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/MG.png" group-title="咪咕",咪咕直播-13
-http://[2409:8087:1a01:df::4003]/PLTV/88888888/224/3221225650/index.m3u8
-#EXTINF:-1 tvg-id="咪咕直播" tvg-name="咪咕直播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/MG.png" group-title="咪咕",咪咕直播-14
-http://[2409:8087:1a01:df::4014]/PLTV/88888888/224/3221225652/index.m3u8
-#EXTINF:-1 tvg-id="咪咕直播" tvg-name="咪咕直播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/MG.png" group-title="咪咕",咪咕直播-15
-http://[2409:8087:1a01:df::4013]/PLTV/88888888/224/3221225653/index.m3u8
-#EXTINF:-1 tvg-id="咪咕直播" tvg-name="咪咕直播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/MG.png" group-title="咪咕",咪咕直播-16
-http://[2409:8087:1a01:df::4017]/PLTV/88888888/224/3221225654/index.m3u8
-#EXTINF:-1 tvg-id="咪咕直播" tvg-name="咪咕直播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/MG.png" group-title="咪咕",咪咕直播-17
-http://[2409:8087:1a01:df::4019]/PLTV/88888888/224/3221225658/index.m3u8
-#EXTINF:-1 tvg-id="咪咕直播" tvg-name="咪咕直播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/MG.png" group-title="咪咕",咪咕直播-18
-http://[2409:8087:1a01:df::4012]/PLTV/88888888/224/3221225660/index.m3u8
-#EXTINF:-1 tvg-id="咪咕直播" tvg-name="咪咕直播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/MG.png" group-title="咪咕",咪咕直播-19
-http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225662/index.m3u8
-#EXTINF:-1 tvg-id="咪咕直播" tvg-name="咪咕直播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/MG.png" group-title="咪咕",咪咕直播-20
-http://[2409:8087:1a01:df::4062]/PLTV/88888888/224/3221225733/index.m3u8
-#EXTINF:-1 tvg-id="咪咕直播" tvg-name="咪咕直播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/MG.png" group-title="咪咕",咪咕直播-21
-http://[2409:8087:1a01:df::4048]/PLTV/88888888/224/3221225735/index.m3u8
-#EXTINF:-1 tvg-id="咪咕直播" tvg-name="咪咕直播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/MG.png" group-title="咪咕",咪咕直播-22
-http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225737/index.m3u8
-#EXTINF:-1 tvg-id="咪咕直播" tvg-name="咪咕直播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/MG.png" group-title="咪咕",咪咕直播-23
-http://[2409:8087:1a01:df::4074]/PLTV/88888888/224/3221225739/index.m3u8
-#EXTINF:-1 tvg-id="咪咕直播" tvg-name="咪咕直播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/MG.png" group-title="咪咕",咪咕直播-24
-http://[2409:8087:1a01:df::4070]/PLTV/88888888/224/3221225741/index.m3u8
-#EXTINF:-1 tvg-id="咪咕直播" tvg-name="咪咕直播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/MG.png" group-title="咪咕",咪咕直播-25
-http://[2409:8087:1a01:df::4050]/PLTV/88888888/224/3221225745/index.m3u8
-#EXTINF:-1 tvg-id="咪咕直播" tvg-name="咪咕直播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/MG.png" group-title="咪咕",咪咕直播-26
-http://[2409:8087:1a01:df::4050]/PLTV/88888888/224/3221225747/index.m3u8
-#EXTINF:-1 tvg-id="咪咕直播" tvg-name="咪咕直播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/MG.png" group-title="咪咕",咪咕直播-27
-http://[2409:8087:1a01:df::4039]/PLTV/88888888/224/3221225749/index.m3u8
-#EXTINF:-1 tvg-id="咪咕直播" tvg-name="咪咕直播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/MG.png" group-title="咪咕",咪咕直播-28
-http://[2409:8087:1a01:df::4030]/PLTV/88888888/224/3221225754/index.m3u8
-#EXTINF:-1 tvg-id="咪咕直播" tvg-name="咪咕直播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/MG.png" group-title="咪咕",咪咕直播-29
-http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225756/index.m3u8
-#EXTINF:-1 tvg-id="咪咕直播" tvg-name="咪咕直播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/MG.png" group-title="咪咕",咪咕直播-30
-http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225758/index.m3u8
-#EXTINF:-1 tvg-id="咪咕直播" tvg-name="咪咕直播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/MG.png" group-title="咪咕",咪咕直播-31
-http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225760/index.m3u8
-#EXTINF:-1 tvg-id="咪咕直播" tvg-name="咪咕直播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/MG.png" group-title="咪咕",咪咕直播-32
-http://[2409:8087:1a01:df::4039]/PLTV/88888888/224/3221225762/index.m3u8
-#EXTINF:-1 tvg-id="咪咕直播" tvg-name="咪咕直播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/MG.png" group-title="咪咕",咪咕直播-33
-http://[2409:8087:1a01:df::4050]/PLTV/88888888/224/3221225764/index.m3u8
-#EXTINF:-1 tvg-id="咪咕直播" tvg-name="咪咕直播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/MG.png" group-title="咪咕",咪咕直播-34
-http://[2409:8087:1a01:df::4027]/PLTV/88888888/224/3221225766/index.m3u8
-#EXTINF:-1 tvg-id="咪咕直播" tvg-name="咪咕直播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/MG.png" group-title="咪咕",咪咕直播-35
-http://[2409:8087:1a01:df::4050]/PLTV/88888888/224/3221225768/index.m3u8
-#EXTINF:-1 tvg-id="咪咕直播" tvg-name="咪咕直播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/MG.png" group-title="咪咕",咪咕直播-36
-http://[2409:8087:1a01:df::4078]/PLTV/88888888/224/3221225782/index.m3u8
-#EXTINF:-1 tvg-id="咪咕直播" tvg-name="咪咕直播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/MG.png" group-title="咪咕",咪咕直播-37
-http://[2409:8087:1a01:df::4002]/PLTV/88888888/224/3221225895/index.m3u8
-#EXTINF:-1 tvg-id="咪咕直播" tvg-name="咪咕直播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/MG.png" group-title="咪咕",咪咕直播-38
-http://[2409:8087:1a01:df::4028]/PLTV/88888888/224/3221225897/index.m3u8
-#EXTINF:-1 tvg-id="咪咕直播" tvg-name="咪咕直播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/MG.png" group-title="咪咕",咪咕直播-39
-http://[2409:8087:1a01:df::4061]/PLTV/88888888/224/3221225899/index.m3u8
-#EXTINF:-1 tvg-id="咪咕直播" tvg-name="咪咕直播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/MG.png" group-title="咪咕",咪咕直播-40
-http://[2409:8087:1a01:df::4009]/PLTV/88888888/224/3221225901/index.m3u8
-#EXTINF:-1 tvg-id="咪咕直播" tvg-name="咪咕直播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/MG.png" group-title="咪咕",咪咕直播-41
-http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225903/index.m3u8
-#EXTINF:-1 tvg-id="咪咕直播" tvg-name="咪咕直播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/MG.png" group-title="咪咕",咪咕直播-42
-http://[2409:8087:1a01:df::4079]/PLTV/88888888/224/3221225904/index.m3u8
-#EXTINF:-1 tvg-id="咪咕直播" tvg-name="咪咕直播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/MG.png" group-title="咪咕",咪咕直播-43
-http://[2409:8087:1a01:df::4051]/PLTV/88888888/224/3221225905/index.m3u8
-#EXTINF:-1 tvg-id="咪咕直播" tvg-name="咪咕直播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/MG.png" group-title="咪咕",咪咕直播-44
-http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225906/index.m3u8
-#EXTINF:-1 tvg-id="咪咕直播" tvg-name="咪咕直播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/MG.png" group-title="咪咕",咪咕直播-45
-http://[2409:8087:1a01:df::4055]/PLTV/88888888/224/3221225910/index.m3u8
-#EXTINF:-1 tvg-id="咪咕直播" tvg-name="咪咕直播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/MG.png" group-title="咪咕",咪咕直播-46
-http://[2409:8087:1a01:df::4076]/PLTV/88888888/224/3221225912/index.m3u8
-#EXTINF:-1 tvg-id="咪咕直播" tvg-name="咪咕直播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/MG.png" group-title="咪咕",咪咕直播-47
-http://[2409:8087:1a01:df::4027]/PLTV/88888888/224/3221225914/index.m3u8
-#EXTINF:-1 tvg-id="咪咕直播" tvg-name="咪咕直播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/MG.png" group-title="咪咕",咪咕直播-48
-http://[2409:8087:1a01:df::4076]/PLTV/88888888/224/3221226027/index.m3u8
-#EXTINF:-1 tvg-id="咪咕直播" tvg-name="咪咕直播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/MG.png" group-title="咪咕",咪咕直播-49
-http://[2409:8087:1a01:df::4068]/PLTV/88888888/224/3221226031/index.m3u8
-#EXTINF:-1 tvg-id="咪咕直播" tvg-name="咪咕直播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/MG.png" group-title="咪咕",咪咕直播-50
-http://[2409:8087:1a01:df::4062]/PLTV/88888888/224/3221226046/index.m3u8
-#EXTINF:-1 tvg-id="咪咕直播" tvg-name="咪咕直播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/MG.png" group-title="咪咕",咪咕直播-51
-http://[2409:8087:1a01:df::4041]/PLTV/88888888/224/3221226053/index.m3u8
-#EXTINF:-1 tvg-id="咪咕直播" tvg-name="咪咕直播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/MG.png" group-title="咪咕",咪咕直播-52
-http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
-#EXTINF:-1 tvg-id="咪咕直播" tvg-name="咪咕直播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/MG.png" group-title="咪咕",咪咕直播-53
-http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
-#EXTINF:-1 tvg-id="咪咕直播" tvg-name="咪咕直播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/MG.png" group-title="咪咕",咪咕直播-54
-http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
-#EXTINF:-1 tvg-id="咪咕直播" tvg-name="咪咕直播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/MG.png" group-title="咪咕",咪咕直播-55
-http://[2409:8087:1a01:df::402a]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
-#EXTINF:-1 tvg-id="咪咕直播" tvg-name="咪咕直播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/MG.png" group-title="咪咕",咪咕直播-56
-http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
+#数字电影
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/CHC2.png" group-title="数字电影",CHC家庭影院
+https://stream1.freetv.fun/ipv6-chcjia-ting-ying-yuan-2.m3u8
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/CHC2.png" group-title="数字电影",CHC家庭影院
+https://epg.pw/stream/085a38ada3bf036f74dc58987291160253095044bdff40a127b5578345656db0.m3u8
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/CHC2.png" group-title="数字电影",CHC家庭影院
+https://stream1.freetv.fun/chcjia-ting-ying-yuan-1.ctv
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/CHC2.png" group-title="数字电影",CHC家庭影院
+https://stream1.freetv.fun/chcjia-ting-ying-yuan-9.ctv
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/CHC2.png" group-title="数字电影",CHC家庭影院
+https://stream1.freetv.fun/jia-ting-ying-yuan-5.m3u8
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/CHC2.png" group-title="数字电影",CHC家庭影院
+https://stream1.freetv.fun/jia-ting-ying-yuan-4.m3u8
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/CHC2.png" group-title="数字电影",CHC家庭影院
+https://stream1.freetv.fun/jia-ting-ying-yuan-2.m3u8
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/CHC2.png" group-title="数字电影",CHC家庭影院
+https://stream1.freetv.fun/jia-ting-ying-yuan-3.m3u8
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/CHC3.png" group-title="数字电影",CHC动作电影
+https://epg.pw/stream/9e5dbc0cbb15ba574f44e0d67c54cff2c85a7ed97dbb73e3b2101b26fec45cf1.m3u8
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/CHC3.png" group-title="数字电影",CHC动作电影
+https://stream1.freetv.fun/chcdong-zuo-dian-ying-1.m3u8
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/CHC3.png" group-title="数字电影",CHC动作电影
+https://stream1.freetv.fun/chcdong-zuo-dian-ying-7.ctv
+#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/CHC4.png" group-title="数字电影",CHC影迷电影
+https://epg.pw/stream/513b5aea95520a37ae24d3ef1be5f02e0bbb0b3b937c0bb6d4154722a9a2d8fd.m3u8
+#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/CHC4.png" group-title="数字电影",CHC影迷电影
+https://stream1.freetv.fun/chcdian-ying-1.m3u8
+#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/CHC4.png" group-title="数字电影",CHC影迷电影
+https://stream1.freetv.fun/gao-qing-dian-ying-2.m3u8
+#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/CHC4.png" group-title="数字电影",CHC影迷电影
+https://stream1.freetv.fun/dian-ying-8.m3u8
+#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/CHC4.png" group-title="数字电影",CHC影迷电影
+https://stream1.freetv.fun/gao-qing-dian-ying-1.m3u8
+#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/CHC4.png" group-title="数字电影",CHC影迷电影
+https://stream1.freetv.fun/dian-ying-5.m3u8
+#EXTINF:-1 tvg-id="NewTV超级电影" tvg-name="NewTV超级电影" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/NewTV23.png" group-title="数字电影",NewTV超级电影-[M]
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+#EXTINF:-1 tvg-id="NewTV动作电影" tvg-name="NewTV动作电影" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/NewTV03.png" group-title="数字电影",NewTV动作电影-[M]
+https://epg.pw/stream/2be975a99667db639c643e443662ae3662651230ce2f07ad4e5e7c862a5efdb0.m3u8
+#EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/hmdy.png" group-title="数字电影",黑莓电影
+https://epg.pw/stream/f46014baef67a3ce1206441961fa942e3aaa7a7ea5d6d92826dec84bb95f713d.m3u8
+#EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/hmdh.png" group-title="数字电影",黑莓动画
+https://epg.pw/stream/866804d9ec902efc4390291e022bf77d5392e8aa92281f929ed68adb08bfc2d5.m3u8
+#EXTINF:-1 tvg-id="美亚电影台" tvg-name="美亚电影台" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/meiyady.png" group-title="数字电影",美亚电影台
+https://stream1.freetv.fun/mei-ya-dian-ying-1.ctv
+#EXTINF:-1 tvg-id="AMC电影" tvg-name="AMC电影" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/AMC.png" group-title="数字电影",AMC电影
+https://stream1.freetv.fun/amcdian-ying-1.m3u8
+#EXTINF:-1 tvg-id="哒啵赛事" tvg-name="哒啵赛事" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/dbss.png" group-title="数字电影",哒啵赛事
+https://epg.pw/stream/c9c1580e6c338773e4e77853c734c87056be919c7e7b9a82816a6b371e3674e6.m3u8
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/CCTV6.png" group-title="数字电影",CCTV-6-[M]
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+#EXTINF:-1 tvg-id="湖南电影" tvg-name="湖南电影" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Hunan6.png" group-title="数字电影",湖南电影
+https://stream1.freetv.fun/hu-nan-dian-ying-5.m3u8
+#EXTINF:-1 tvg-id="湖南电影" tvg-name="湖南电影" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Hunan6.png" group-title="数字电影",湖南电影
+https://stream1.freetv.fun/hu-nan-dian-ying-2.ctv
+#EXTINF:-1 tvg-id="湖南电影" tvg-name="湖南电影" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Hunan6.png" group-title="数字电影",湖南电影
+https://stream1.freetv.fun/hu-nan-dian-ying-3.m3u8
+#EXTINF:-1 tvg-id="湖南电影" tvg-name="湖南电影" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Hunan6.png" group-title="数字电影",湖南电影
+https://stream1.freetv.fun/hu-nan-dian-ying-8.m3u8
+#EXTINF:-1 tvg-id="湖南电影" tvg-name="湖南电影" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Hunan6.png" group-title="数字电影",湖南电影
+https://stream1.freetv.fun/hu-nan-dian-ying-6.m3u8
+#EXTINF:-1 tvg-id="湖南电影" tvg-name="湖南电影" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Hunan6.png" group-title="数字电影",湖南电影
+https://stream1.freetv.fun/hu-nan-dian-ying-11.m3u8
+#EXTINF:-1 tvg-id="湖南电影" tvg-name="湖南电影" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Hunan6.png" group-title="数字电影",湖南电影
+https://stream1.freetv.fun/hu-nan-dian-ying-gao-qing-1.m3u8
+#EXTINF:-1 tvg-id="经典电影台" tvg-name="经典电影台" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/tv.png" group-title="数字电影",经典电影台
+https://stream1.freetv.fun/jing-dian-dian-ying-6.m3u8
+#EXTINF:-1 tvg-id="经典电影台" tvg-name="经典电影台" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/tv.png" group-title="数字电影",经典电影台
+https://stream1.freetv.fun/jing-dian-dian-ying-5.m3u8
+#EXTINF:-1 tvg-id="经典电影台" tvg-name="经典电影台" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/tv.png" group-title="数字电影",经典电影台
+https://stream1.freetv.fun/jing-dian-dian-ying-4.m3u8
+#EXTINF:-1 tvg-id="经典电影台" tvg-name="经典电影台" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/tv.png" group-title="数字电影",经典电影台
+https://stream1.freetv.fun/jing-dian-dian-ying-10.m3u8
+#EXTINF:-1 tvg-id="经典电影台" tvg-name="经典电影台" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/tv.png" group-title="数字电影",经典电影台
+https://stream1.freetv.fun/jing-dian-dian-ying-8.m3u8
+#EXTINF:-1 tvg-id="经典电影台" tvg-name="经典电影台" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/tv.png" group-title="数字电影",经典电影台
+https://stream1.freetv.fun/jing-dian-dian-ying-7.m3u8
+#EXTINF:-1 tvg-id="经典电影台" tvg-name="经典电影台" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/tv.png" group-title="数字电影",经典电影台
+https://stream1.freetv.fun/jing-dian-dian-ying-11.m3u8
+#EXTINF:-1 tvg-id="经典电影台" tvg-name="经典电影台" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/tv.png" group-title="数字电影",经典电影台
+https://stream1.freetv.fun/jing-dian-dian-ying-9.m3u8
 
 #NewTV
 #EXTINF:-1 tvg-id="NewTV超级电视剧" tvg-name="NewTV超级电视剧" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/NewTV25.png" group-title="NewTV",超级电视剧
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
 #EXTINF:-1 tvg-id="NewTV超级电影" tvg-name="NewTV超级电影" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/NewTV23.png" group-title="NewTV",超级电影
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-#EXTINF:-1 tvg-id="NewTV超级体育" tvg-name="NewTV超级体育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/NewTV22.png" group-title="NewTV",超级体育
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 #EXTINF:-1 tvg-id="NewTV超级综艺" tvg-name="NewTV超级综艺" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/NewTV24.png" group-title="NewTV",超级综艺
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
 #EXTINF:-1 tvg-id="NewTV潮妈辣婆" tvg-name="NewTV潮妈辣婆" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/NewTV15.png" group-title="NewTV",潮妈辣婆
@@ -365,6 +577,8 @@ https://epg.pw/stream/e58b03bfd507e0a80eabeca0e7c42e0204fcc777ae692448daa4b2f9ce
 https://epg.pw/stream/c169dc0eb342ab0d1d8b097853183954995fb6b84eaecad28b831d4098a999c5.m3u8
 #EXTINF:-1 tvg-id="NewTV精品纪录" tvg-name="NewTV精品纪录" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/NewTV20.png" group-title="NewTV",精品纪录
 https://epg.pw/stream/dfb24b21e956eeba85df1d10904bcb4155427d5fd8aa208244a7f25acd180061.m3u8
+#EXTINF:-1 tvg-id="NewTV超级体育" tvg-name="NewTV超级体育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/NewTV22.png" group-title="NewTV",超级体育
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 #EXTINF:-1 tvg-id="NewTV精品体育" tvg-name="NewTV精品体育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/NewTV18.png" group-title="NewTV",精品体育
 https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8
 #EXTINF:-1 tvg-id="NewTV军旅剧场" tvg-name="NewTV军旅剧场" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/NewTV02.png" group-title="NewTV",军旅剧场
@@ -381,43 +595,143 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
 
 #iHOT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/ihot12.png" group-title="iHOT",爱电竞
+#EXTINF:-1 tvg-id="爱电竞" tvg-name="爱电竞" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/ihot12.png" group-title="iHOT",爱电竞
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000230630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000230630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/ihot26.png" group-title="iHOT",爱谍战
+#EXTINF:-1 tvg-id="爱谍战" tvg-name="爱谍战" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/ihot26.png" group-title="iHOT",爱谍战
 https://epg.pw/stream/3b5e48be716e19f899382aaddd40132f1f64834da8980d6c4dea84cca9b25c9e.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/ihot11.png" group-title="iHOT",爱动漫
+#EXTINF:-1 tvg-id="爱动漫" tvg-name="爱动漫" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/ihot11.png" group-title="iHOT",爱动漫
 https://epg.pw/stream/10050659e56413aee6307a6f6cb7ac6dca6f3073d4f218d781b4ec9a58a5d648.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/ihot25.png" group-title="iHOT",爱都市
+#EXTINF:-1 tvg-id="爱都市" tvg-name="爱都市" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/ihot25.png" group-title="iHOT",爱都市
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000080630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000080630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/ihot29.png" group-title="iHOT",爱怀旧
+#EXTINF:-1 tvg-id="爱怀旧" tvg-name="爱怀旧" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/ihot29.png" group-title="iHOT",爱怀旧
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000260630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000260630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/ihot27.png" group-title="iHOT",爱经典
+#EXTINF:-1 tvg-id="爱经典" tvg-name="爱经典" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/ihot27.png" group-title="iHOT",爱经典
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000060630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000060630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/ihot02.png" group-title="iHOT",爱科幻
+#EXTINF:-1 tvg-id="爱科幻" tvg-name="爱科幻" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/ihot02.png" group-title="iHOT",爱科幻
 https://epg.pw/stream/b5aca0307b6e2483b3501749938f4f9cd961c1957b4ea3c67ac0ef5b18243539.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/ihot07.png" group-title="iHOT",爱科学
+#EXTINF:-1 tvg-id="爱科学" tvg-name="爱科学" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/ihot07.png" group-title="iHOT",爱科学
 https://epg.pw/stream/0faa4ccf5742d9b131a6f184d204bf5fd7d51ee33274f258753235d63cc8cbdc.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/ihot09.png" group-title="iHOT",爱浪漫
+#EXTINF:-1 tvg-id="爱浪漫" tvg-name="爱浪漫" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/ihot09.png" group-title="iHOT",爱浪漫
 https://epg.pw/stream/dfe3fc045ac72b1ef7b8dd14ea9c92aae8aefd4f93b27c01a12ddeffd60f4aea.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/ihot10.png" group-title="iHOT",爱历史
+#EXTINF:-1 tvg-id="爱历史" tvg-name="爱历史" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/ihot10.png" group-title="iHOT",爱历史
 https://epg.pw/stream/3531e416880127e4442b8ffd4c2980b7433e413e4d6ed02671a412811cd092d3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/ihot19.png" group-title="iHOT",爱旅行
+#EXTINF:-1 tvg-id="爱旅行" tvg-name="爱旅行" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/ihot19.png" group-title="iHOT",爱旅行
 https://epg.pw/stream/0935cbb6cc487773db6837e3cb9b5486331744e87c66272f26198581cf981ab5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/ihot04.png" group-title="iHOT",爱奇谈
+#EXTINF:-1 tvg-id="爱奇谈" tvg-name="爱奇谈" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/ihot04.png" group-title="iHOT",爱奇谈
 https://epg.pw/stream/200ca802ecda56261f8a8c08120f5cb73d8a58ec8fd6b6987252a647da3fbb02.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/ihot22.png" group-title="iHOT",爱青春
+#EXTINF:-1 tvg-id="爱青春" tvg-name="爱青春" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/ihot22.png" group-title="iHOT",爱青春
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000100630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000100630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/ihot16.png" group-title="iHOT",爱赛车
+#EXTINF:-1 tvg-id="爱赛车" tvg-name="爱赛车" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/ihot16.png" group-title="iHOT",爱赛车
 https://epg.pw/stream/f86ff118e380ecd0d78c2585521a34d096f4b0fda373a194e706bd4c32387f30.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/ihot15.png" group-title="iHOT",爱体育
-https://epg.pw/stream/7e8bd46ec7e304d6a7de3d46047d5190807b488c4d2fa4404a31134080f52a38.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/ihot13.png" group-title="iHOT",爱玩具
+#EXTINF:-1 tvg-id="爱玩具" tvg-name="爱玩具" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/ihot13.png" group-title="iHOT",爱玩具
 https://epg.pw/stream/18317567c8f4096a6d9d6f002edbca84c7b716b92ff10f36290737f3800bcf51.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/ihot03.png" group-title="iHOT",爱喜剧
+#EXTINF:-1 tvg-id="爱体育" tvg-name="爱体育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/ihot15.png" group-title="iHOT",爱体育
+https://epg.pw/stream/7e8bd46ec7e304d6a7de3d46047d5190807b488c4d2fa4404a31134080f52a38.m3u8
+#EXTINF:-1 tvg-id="爱喜剧" tvg-name="爱喜剧" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/ihot03.png" group-title="iHOT",爱喜剧
 https://epg.pw/stream/a37146e8baa915e0f3a52e11bf0ddd36f8d60e252d123d5c2f1d48ce068687ca.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/ihot14.png" group-title="iHOT",爱悬疑
+#EXTINF:-1 tvg-id="爱悬疑" tvg-name="爱悬疑" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/ihot14.png" group-title="iHOT",爱悬疑
 https://epg.pw/stream/8520fb059a162d79fcf1802eefd61963dc7b5e9e84e4b3dee3dfb7882660e632.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/ihot30.png" group-title="iHOT",爱幼教
+#EXTINF:-1 tvg-id="爱幼教" tvg-name="爱幼教" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/ihot30.png" group-title="iHOT",爱幼教
 https://epg.pw/stream/1808d523498e07a4f04ef1d7f8961a888bfa0167c1af392fec9405920dce9fb2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/ihot01.png" group-title="iHOT",爱院线
+#EXTINF:-1 tvg-id="爱院线" tvg-name="爱院线" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/ihot01.png" group-title="iHOT",爱院线
 https://epg.pw/stream/8239cc040008ba38a9955f7670f78ca285735338538b94b6145771813a3ec745.m3u8
+
+#体育
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong5.png" group-title="体育",广东体育-[S]
+https://stream1.freetv.fun/yan-dong-ti-yu-15.ctv
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong5.png" group-title="体育",广东体育-[S]
+https://stream1.freetv.fun/yan-dong-ti-yu-4.m3u8
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong5.png" group-title="体育",广东体育-[S]
+https://stream1.freetv.fun/yan-dong-ti-yu-20.m3u8
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong5.png" group-title="体育",广东体育-[S]
+https://stream1.freetv.fun/yan-dong-ti-yu-10.m3u8
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong5.png" group-title="体育",广东体育-[S]
+https://stream1.freetv.fun/yan-dong-ti-yu-19.m3u8
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong5.png" group-title="体育",广东体育-[S]
+https://stream1.freetv.fun/yan-dong-ti-yu-18.m3u8
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong5.png" group-title="体育",广东体育-[S]
+https://stream1.freetv.fun/yan-dong-ti-yu-7.m3u8
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong5.png" group-title="体育",广东体育-[S]
+https://stream1.freetv.fun/yan-dong-ti-yu-8.m3u8
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong5.png" group-title="体育",广东体育-[S]
+https://stream1.freetv.fun/yan-dong-ti-yu-12.ctv
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong5.png" group-title="体育",广东体育-[S]
+https://stream1.freetv.fun/yan-dong-ti-yu-16.m3u8
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong5.png" group-title="体育",广东体育-[S]
+https://stream1.freetv.fun/yan-dong-ti-yu-14.m3u8
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong5.png" group-title="体育",广东体育-[S]
+https://stream1.freetv.fun/yan-dong-ti-yu-13.ctv
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangdong5.png" group-title="体育",广东体育-[S]
+https://stream1.freetv.fun/yan-dong-ti-yu-1.m3u8
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/CCTV5.png" group-title="体育",CCTV-5-[S]
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/CCTV5.png" group-title="体育",CCTV-5-[S]
+https://stream1.freetv.fun/cctv-5-5.ctv
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/CCTV5.png" group-title="体育",CCTV-5-[S]
+https://stream1.freetv.fun/cctv5ti-yu-5.ctv
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/CCTV5.png" group-title="体育",CCTV-5-[S]
+https://stream1.freetv.fun/cctv5-63.ctv
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/CCTV5plus.png" group-title="体育",CCTV-5+-[S]
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/CCTV5plus.png" group-title="体育",CCTV-5+-[S]
+http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000132/index.m3u8?IAS
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/CCTV5plus.png" group-title="体育",CCTV-5+-[S]
+https://stream1.freetv.fun/cctv-5-plus-1.ctv
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/CCTV5plus.png" group-title="体育",CCTV-5+-[S]
+https://stream1.freetv.fun/cctv5-plus-12.ctv
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/CCTV5plus.png" group-title="体育",CCTV-5+-[S]
+https://stream1.freetv.fun/cctv5-74.m3u8
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/CCTV16.png" group-title="体育",CCTV-16-[S]
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+#EXTINF:-1 tvg-id="咪咕直播" tvg-name="咪咕直播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/MG.png" group-title="体育",咪咕直播-1
+http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
+#EXTINF:-1 tvg-id="咪咕直播" tvg-name="咪咕直播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/MG.png" group-title="体育",咪咕直播-2
+http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+#EXTINF:-1 tvg-id="咪咕直播" tvg-name="咪咕直播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/MG.png" group-title="体育",咪咕直播-3
+http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
+#EXTINF:-1 tvg-id="咪咕直播" tvg-name="咪咕直播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/MG.png" group-title="体育",咪咕直播-4
+http://[2409:8087:1a01:df::402a]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
+#EXTINF:-1 tvg-id="咪咕直播" tvg-name="咪咕直播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/MG.png" group-title="体育",咪咕直播-5
+http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
+#EXTINF:-1 tvg-id="NewTV超级体育" tvg-name="NewTV超级体育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/NewTV22.png" group-title="体育",超级体育-[S]
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
+#EXTINF:-1 tvg-id="NewTV精品体育" tvg-name="NewTV精品体育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/NewTV18.png" group-title="体育",精品体育-[S]
+https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8
+#EXTINF:-1 tvg-id="爱体育" tvg-name="爱体育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/ihot15.png" group-title="体育",爱体育-[S]
+https://epg.pw/stream/7e8bd46ec7e304d6a7de3d46047d5190807b488c4d2fa4404a31134080f52a38.m3u8
+#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Shanghai5.png" group-title="体育",五星体育
+https://stream1.freetv.fun/ipv6-wu-xing-ti-yu-2.m3u8
+#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Shanghai5.png" group-title="体育",五星体育
+https://stream1.freetv.fun/ipv6-wu-xing-ti-yu-1.m3u8
+#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Shanghai5.png" group-title="体育",五星体育
+https://epg.pw/stream/4881181ce7c229726cc597354dcd8ac833357167c1f7af8b48b2d08267400041.m3u8
+#EXTINF:-1 tvg-id="广州竞赛" tvg-name="广州竞赛" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangzhou4.png" group-title="体育",广州竞赛-[S]
+http://php.jdshipin.com:8880/gztv.php?id=jingsai
+#EXTINF:-1 tvg-id="广州竞赛" tvg-name="广州竞赛" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangzhou4.png" group-title="体育",广州竞赛-[S]
+https://stream1.freetv.fun/yan-zhou-jing-sai-5.m3u8
+#EXTINF:-1 tvg-id="广州竞赛" tvg-name="广州竞赛" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangzhou4.png" group-title="体育",广州竞赛-[S]
+https://stream1.freetv.fun/yan-zhou-jing-sai-1.ctv
+#EXTINF:-1 tvg-id="广州竞赛" tvg-name="广州竞赛" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangzhou4.png" group-title="体育",广州竞赛-[S]
+https://stream1.freetv.fun/yan-zhou-jing-sai-6.m3u8
+#EXTINF:-1 tvg-id="广州竞赛" tvg-name="广州竞赛" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Guangzhou4.png" group-title="体育",广州竞赛-[S]
+https://stream1.freetv.fun/yan-zhou-jing-sai-7.m3u8
+#EXTINF:-1 tvg-id="深圳体育" tvg-name="深圳体育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Shenzhen8.png" group-title="体育",深圳体育-[S]
+https://stream1.freetv.fun/shen-zhen-ti-yu-2.m3u8
+#EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Videoland7.png" group-title="体育",纬来体育
+rtmp://f13h.mine.nu/sat/tv721
+#EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Videoland7.png" group-title="体育",纬来体育
+https://stream1.freetv.fun/wei-lai-ti-yu-11.m3u8
+#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/mlzq.png" group-title="体育",魅力足球
+https://stream1.freetv.fun/ipv6-mei-li-zu-qiu-1.m3u8
+#EXTINF:-1 tvg-id="Eleven Sports1" tvg-name="Eleven Sports1" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Eleven1.png" group-title="体育",Eleven Sports1
+https://stream1.freetv.fun/eleven-sports-1-pl-1.ctv
+#EXTINF:-1 tvg-id="Eleven1" tvg-name="Eleven1" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Eleven1.png" group-title="体育",Eleven1
+https://stream1.freetv.fun/eleven-sports-1-1.ctv
+#EXTINF:-1 tvg-id="Eleven Sports2" tvg-name="Eleven Sports2" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Eleven2.png" group-title="体育",Eleven Sports2
+https://stream1.freetv.fun/eleven-sports-2-pl-1.ctv
+#EXTINF:-1 tvg-id="Eleven2" tvg-name="Eleven2" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Eleven2.png" group-title="体育",Eleven2
+https://stream1.freetv.fun/eleven-sports-2-1.ctv
+#EXTINF:-1 tvg-id="Eleven Sports3" tvg-name="Eleven Sports3" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Eleven3.png" group-title="体育",Eleven Sports3
+https://stream1.freetv.fun/eleven-sports-3-1.ctv
+#EXTINF:-1 tvg-id="Eleven3" tvg-name="Eleven3" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Eleven3.png" group-title="体育",Eleven3
+https://stream1.freetv.fun/eleven-sports-1.ctv
