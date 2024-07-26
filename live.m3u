@@ -447,6 +447,10 @@ https://stream1.freetv.fun/tvbsxin-wen-1.ctv
 https://stream1.freetv.fun/tvbsxin-wen-4.m3u8
 #EXTINF:-1 tvg-id="番薯台" tvg-name="番薯台" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/fanshutv.png" group-title="港澳台",番薯台
 http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+#EXTINF:-1 tvg-id="番薯台" tvg-name="番薯台" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/fanshutv.png" group-title="港澳台",番薯台
+http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8?blog.ntnas.top
+#EXTINF:-1 tvg-id="番薯台" tvg-name="番薯台" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/fanshutv.png" group-title="港澳台",番薯台
+http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 #EXTINF:-1 tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Startv.png" group-title="港澳台",星空卫视
 https://stream1.freetv.fun/xing-kong-wei-shi-5.m3u8
 #EXTINF:-1 tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Startv.png" group-title="港澳台",星空卫视
@@ -476,6 +480,8 @@ https://stream1.freetv.fun/cna-3.m3u8
 
 #数字电影
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/CHC2.png" group-title="数字电影",CHC家庭影院
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/CHC2.png" group-title="数字电影",CHC家庭影院
 https://stream1.freetv.fun/ipv6-chcjia-ting-ying-yuan-2.m3u8
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/CHC2.png" group-title="数字电影",CHC家庭影院
 https://epg.pw/stream/085a38ada3bf036f74dc58987291160253095044bdff40a127b5578345656db0.m3u8
@@ -492,11 +498,15 @@ https://stream1.freetv.fun/jia-ting-ying-yuan-2.m3u8
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/CHC2.png" group-title="数字电影",CHC家庭影院
 https://stream1.freetv.fun/jia-ting-ying-yuan-3.m3u8
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/CHC3.png" group-title="数字电影",CHC动作电影
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/CHC3.png" group-title="数字电影",CHC动作电影
 https://epg.pw/stream/9e5dbc0cbb15ba574f44e0d67c54cff2c85a7ed97dbb73e3b2101b26fec45cf1.m3u8
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/CHC3.png" group-title="数字电影",CHC动作电影
 https://stream1.freetv.fun/chcdong-zuo-dian-ying-1.m3u8
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/CHC3.png" group-title="数字电影",CHC动作电影
 https://stream1.freetv.fun/chcdong-zuo-dian-ying-7.ctv
+#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/CHC4.png" group-title="数字电影",CHC影迷电影
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04
 #EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/CHC4.png" group-title="数字电影",CHC影迷电影
 https://epg.pw/stream/513b5aea95520a37ae24d3ef1be5f02e0bbb0b3b937c0bb6d4154722a9a2d8fd.m3u8
 #EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/CHC4.png" group-title="数字电影",CHC影迷电影
@@ -589,6 +599,8 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8
 #EXTINF:-1 tvg-id="NewTV军旅剧场" tvg-name="NewTV军旅剧场" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/NewTV02.png" group-title="NewTV",军旅剧场
 https://epg.pw/stream/039ce88ed853e0843ddd582b05a4b05caad6c6c97ed78f541e5ce97cbd943ba9.m3u8
+#EXTINF:-1 tvg-id="NewTV农业致富" tvg-name="NewTV农业致富" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/NewTV08.png" group-title="NewTV",农业致富
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
 #EXTINF:-1 tvg-id="NewTV农业致富" tvg-name="NewTV农业致富" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/NewTV08.png" group-title="NewTV",农业致富
 https://epg.pw/stream/e6510833cb8966a5e3cd72d29a04a34514d661e39ebc5f39a88c74acb0c5f5e9.m3u8
 #EXTINF:-1 tvg-id="NewTV武搏世界" tvg-name="NewTV武搏世界" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/NewTV14.png" group-title="NewTV",武搏世界
@@ -725,6 +737,10 @@ https://stream1.freetv.fun/yan-zhou-jing-sai-7.m3u8
 https://stream1.freetv.fun/shen-zhen-ti-yu-2.m3u8
 #EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Videoland7.png" group-title="体育",纬来体育
 rtmp://f13h.mine.nu/sat/tv721
+#EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Videoland7.png" group-title="体育",纬来体育
+http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
+#EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Videoland7.png" group-title="体育",纬来体育
+https://cloud.yumixiu768.com/tmp/123.m3u8
 #EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/Videoland7.png" group-title="体育",纬来体育
 https://stream1.freetv.fun/wei-lai-ti-yu-11.m3u8
 #EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhico/cpabox/main/img/mlzq.png" group-title="体育",魅力足球
